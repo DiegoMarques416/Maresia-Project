@@ -32,10 +32,11 @@ nav {
 }
 
 .h1{
+  text-align: center;
   font-family: 'Oswald',sans-serif;
   font-style: italic bold;
   font-size: 40px;
-  margin-top: 200px;
+  margin-top: 20px;
   letter-spacing: 2px;
   height: 100px;
   color:rgb(30, 60, 153);
@@ -45,7 +46,6 @@ nav {
   font-style: italic bold;
   font-size: 25px;
   margin-left: -700px;
-  padding-top: 100px;
   letter-spacing: 3px;
   color: rgba(20, 104, 168,1);
 }
@@ -54,7 +54,6 @@ nav {
   font-style: italic bold;
   font-size: 25px;
   margin-left: 600px;
-  padding-top: 100px;
   letter-spacing: 3px;
   color: rgba(20, 104, 168, 1);
 }
@@ -62,7 +61,7 @@ nav {
   font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
   font-style: italic bold;
   font-size: 20px;
-  margin-top: 40px;
+  margin-top: 140px;
   color: white;
 }
 .overlay {
@@ -89,13 +88,13 @@ nav {
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
-  transition: background-color 0.3s;
+  transition: background-color 1.0s;
   margin-right: 20px;
   text-align:top;
 }
 
 .btn:hover {
-  background-color: #0056b3;
+  background-color: #03274d;
 }
 
 /* Estilo para o corpo da página */
